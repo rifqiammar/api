@@ -1,0 +1,35 @@
+[
+    { 
+        "nama" : "Rifqi",
+        "umur" : 25,
+        "lulus" : true,
+        "hobby" : [
+                    "Sholat",
+                    "coding",
+                    "Swimming"
+                  ],
+                  
+        "pembimbing" : {
+            "pembimbing1" : "Sandhika Galih",
+            "pembimbing2" : "Abdurrazaq"
+        }
+    },
+
+    { 
+        "nama" : "Ammar Ramadhan",
+        "umur" : 25,
+        "lulus" : true,
+        "hobby" : [
+                    "Sholat",
+                    "Running",
+                    "Swimming",
+                    "CamperVan "
+
+                  ],
+                  
+        "pembimbing" : {
+            "pembimbing1" : "Sandhika Galih",
+            "pembimbing2" : "Abdurrazaq"
+        }
+    }
+]

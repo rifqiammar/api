@@ -1,0 +1,59 @@
+{
+    "menu" : [
+
+        {
+            "nama" : "Colombia Supreme Coffee",
+            "asal" : "Colombia",
+            "roast": "Medium",
+            "deskripsi" : "Naturally sweet and brilliantly versatile.",
+            "ukuran"   : "250g",
+            "harga" : 120000,
+            "gambar" : "colombia.jpg"
+        },
+        {
+            "nama" : "Costa Rica San Jose Coffee",
+            "asal" : "Costa Rica",
+            "roast": "Light",
+            "deskripsi" : "Unique and delicate.",
+            "ukuran"   : "250g",
+            "harga" : 180000,
+            "gambar" : "costarica.jpg"
+        },
+        {
+            "nama" : "Brazil Yellow Bourbon Coffee",
+            "asal" : "Brazil",
+            "roast": "Medium",
+            "deskripsi" : "Unique and delicate.",
+            "ukuran"   : "250g",
+            "harga" : 140000,
+            "gambar" : "brazil.jpg"
+        },
+        {
+            "nama" : "Kenya Estate Coffee",
+            "asal" : "Kenya",
+            "roast": "light",
+            "deskripsi" : "Vibrant and crisp.",
+            "ukuran"   : "250g",
+            "harga" : 165000,
+            "gambar" : "kenya.jpg"
+        },
+        {
+            "nama" : "Nicaragua La Bastilla Blueberry Candy Coffee",
+            "asal" : "Nicaragua",
+            "roast": "Medium",
+            "deskripsi" : "Exclusive and delicious micro-lot.",
+            "ukuran"   : "250g",
+            "harga" : 156000,
+            "gambar" : "nicaragua.jpg"
+        },
+        {
+            "nama" : "Ethiopia Bench Maji Coffee",
+            "asal" : "Ethiopia",
+            "roast": "Light",
+            "deskripsi" : "Characterful wild grown coffee.",
+            "ukuran"   : "250g",
+            "harga" : 130000,
+            "gambar" : "ethiopia.jpg"
+        }
+    ]
+}    
